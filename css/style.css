@@ -1,7 +1,6 @@
 .wrapper {
   display: flex;
   flex-flow: row wrap;
-  font-weight: bold;
   text-align: center;
   margin: auto;
 }
@@ -10,6 +9,9 @@
   flex: 1 100%;
 }
 
+p {
+  font-family: Arial;
+}
 .header {
 
 }
